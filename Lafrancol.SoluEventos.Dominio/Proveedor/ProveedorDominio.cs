@@ -9,7 +9,7 @@ namespace Lafrancol.SoluEventos.Dominio
 {
     public class ProveedorDominio
     {
-        public ProveedorDto[] buscarTodos()
+        public List<Proveedor> buscarTodos()
         {
             //ProveedorRepository proveedorRepository = new ProveedorRepository();
             //List<Proveedor> listaProveedores = proveedorRepository.buscarTodos();
@@ -17,19 +17,20 @@ namespace Lafrancol.SoluEventos.Dominio
 
             //return listaProveedores;
 
-            return new ProveedorDto[]
-            {
-                new ProveedorDto
-                {
-                    id = 1,
-                    nombre = "Glenn Block5"
-                },
-                new ProveedorDto
-                {
-                    id = 2,
-                    nombre = "Dan Roth5"
-                }
-            };
+            List<Proveedor> listaProveedores = new List<Proveedor>();
+            //ProveedorDto proveedor01 = new ProveedorDto(1, "Juan");
+
+            Proveedor proveedor01 = new Proveedor();
+            proveedor01.setId(1);
+            proveedor01.setRazonSocial("Juan08");
+            listaProveedores.Add(proveedor01);
+
+            Proveedor proveedor02 = new Proveedor();
+            proveedor02.setId(2);
+            proveedor02.setRazonSocial("Pedro08");
+            listaProveedores.Add(proveedor02);
+
+            return listaProveedores;
         }
 
         //public Proveedor guardar(ProveedorDto proveedorAGuardarDto)

@@ -12,9 +12,9 @@ namespace Lafrancol.SoluEventos.Soporte.Entidades
         public int id { get; set; }
         public string nombre { get; set; }
 
-        private long idProveedor { get; set; }
+        public long idProveedor { get; set; }
         private string nit { get; set; }
-        private string razonSocial { get; set; }
+        public string razonSocial { get; set; }
         private string personaContacto { get; set; }
         private string telefono { get; set; }
         private bool estado { get; set; }
@@ -47,9 +47,9 @@ namespace Lafrancol.SoluEventos.Soporte.Entidades
             //Recibe una entidad Proveedor y devuelve un ProveedorDto
             ProveedorDto proveedorDto = new ProveedorDto();
 
-            proveedorDto.idProveedor = proveedorAConvertir.getId();
+            proveedorDto.setId(proveedorAConvertir.getId());
             proveedorDto.nit = proveedorAConvertir.getNit();
-            proveedorDto.razonSocial = proveedorAConvertir.getRazonSocial();
+            proveedorDto.setRazonSocial(proveedorAConvertir.getRazonSocial());
             proveedorDto.personaContacto = proveedorAConvertir.getPersonaContacto();
             proveedorDto.telefono = proveedorAConvertir.getTelefono();
             proveedorDto.estado = proveedorAConvertir.getEstado();

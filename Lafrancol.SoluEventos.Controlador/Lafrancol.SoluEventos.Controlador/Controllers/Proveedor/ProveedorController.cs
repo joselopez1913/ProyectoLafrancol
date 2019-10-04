@@ -32,9 +32,40 @@ namespace Lafrancol.SoluEventos.Controlador.Controllers
         //}
 
         [HttpGet]
-        public ProveedorDto[] GetAll()
+        public List<ProveedorDto> GetAll()
         {
-            ProveedorDto[] listaProveedores = new ProveedorDominio().buscarTodos();
+
+            List<Proveedor> listaProveedoresEncontrados = new ProveedorDominio().buscarTodos();
+            var listaProveedoresDto = new List<ProveedorDto>();
+
+            //Convierte el listado de Proveedores encontrados en List<ProveedorDto: 
+            foreach (Proveedor itemProveedor in listaProveedoresEncontrados)
+            {
+                ProveedorDto itemDto = ProveedorDto.convertirProveedorADto(itemProveedor);
+                listaProveedoresDto.Add(itemDto);
+            };
+
+
+
+            return listaProveedoresDto;
+
+
+
+            //ProveedorDto[] listaProveedores = new ProveedorDominio().buscarTodos();
+
+            //List<ProveedorDto> listaProveedores = new List<ProveedorDto>();
+            ////ProveedorDto proveedor01 = new ProveedorDto(1, "Juan");
+
+            //ProveedorDto proveedor01 = new ProveedorDto();
+            //proveedor01.id = 1;
+            //proveedor01.nombre = "Juan";
+            //listaProveedores.Add(proveedor01);
+
+            //ProveedorDto proveedor02 = new ProveedorDto();
+            //proveedor02.id = 2;
+            //proveedor02.nombre = "Pedro";
+            //listaProveedores.Add(proveedor02);
+
 
             //return new ProveedorDto[]
             //{
@@ -49,7 +80,7 @@ namespace Lafrancol.SoluEventos.Controlador.Controllers
             //        nombre = "Dan Roth"
             //    }
             //};
-            return listaProveedores;
+            //return listaProveedores;
         }
     }
 }

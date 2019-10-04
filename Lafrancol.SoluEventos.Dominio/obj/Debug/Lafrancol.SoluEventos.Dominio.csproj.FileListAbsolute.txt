@@ -7,3 +7,12 @@ C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\bin\Debu
 C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.csproj.CopyComplete
 C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.dll
 C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.pdb
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\bin\Debug\Lafrancol.SoluEventos.Dominio.dll
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\bin\Debug\Lafrancol.SoluEventos.Dominio.pdb
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\bin\Debug\Lafrancol.SoluEventos.Soporte.Entidades.dll
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\bin\Debug\Lafrancol.SoluEventos.Soporte.Entidades.pdb
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.csprojAssemblyReference.cache
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.csproj.CopyComplete
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.dll
+C:\Users\carlosabs\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Dominio\obj\Debug\Lafrancol.SoluEventos.Dominio.pdb

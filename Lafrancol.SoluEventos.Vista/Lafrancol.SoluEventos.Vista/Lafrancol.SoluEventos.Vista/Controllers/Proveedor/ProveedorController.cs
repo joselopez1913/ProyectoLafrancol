@@ -14,7 +14,8 @@ namespace Lafrancol.SoluEventos.Vista.Controllers
         // GET: Proveedor
         public ActionResult Index()
         {
-            IEnumerable<ProveedorDto> students = null;
+            IEnumerable<ProveedorDto> proveedoresRecibidos = null;
+            List<ProveedorDtoVisualizacion> proveedoresAEnviar = new List<ProveedorDtoVisualizacion>();
 
             using (var client = new HttpClient())
             {
@@ -29,18 +30,27 @@ namespace Lafrancol.SoluEventos.Vista.Controllers
                     var readTask = result.Content.ReadAsAsync<IList<ProveedorDto>>();
                     readTask.Wait();
 
-                    students = readTask.Result;
+                    proveedoresRecibidos = readTask.Result;
                 }
                 else //web api sent error response 
                 {
                     //log response status here..
 
-                    students = Enumerable.Empty<ProveedorDto>();
+                    proveedoresRecibidos = Enumerable.Empty<ProveedorDto>();
 
                     ModelState.AddModelError(string.Empty, "Server error. Please contact administrator.");
                 }
+                
+             
             }
-            return View(students);
+            foreach (ProveedorDto itemProveedor in proveedoresRecibidos)
+            {
+                //var item = proveedoresRecibidos.Cast<ProveedorDto>().ElementAt(0);
+                ProveedorDtoVisualizacion proveedorVista = new ProveedorDtoVisualizacion();
+                proveedorVista = ProveedorDtoVisualizacion.conertirDtoAVisualizacion(itemProveedor);
+                proveedoresAEnviar.Add(proveedorVista);
+            }
+            return View(proveedoresRecibidos);
         }
 
         public ActionResult guardarProveedor()
