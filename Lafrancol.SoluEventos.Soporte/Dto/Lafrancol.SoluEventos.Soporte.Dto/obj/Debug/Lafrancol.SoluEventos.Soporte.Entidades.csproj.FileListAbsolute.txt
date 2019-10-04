@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\bin\Debug\Lafrancol.SoluEventos.Soporte.Entidades.dll
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\bin\Debug\Lafrancol.SoluEventos.Soporte.Entidades.pdb
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\obj\Debug\Lafrancol.SoluEventos.Soporte.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\obj\Debug\Lafrancol.SoluEventos.Soporte.Entidades.dll
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\obj\Debug\Lafrancol.SoluEventos.Soporte.Entidades.pdb

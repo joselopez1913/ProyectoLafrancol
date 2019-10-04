@@ -85,7 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\ProveedorController.cs" />
+    <Compile Include="Controllers\Proveedor\ProveedorController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -105,9 +105,13 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\Lafrancol.SoluEventos.Soporte.Dto.csproj">
+    <ProjectReference Include="..\..\Lafrancol.SoluEventos.Dominio\Lafrancol.SoluEventos.Dominio.csproj">
+      <Project>{74AE3581-7010-4C02-B588-03B3CCEF66F9}</Project>
+      <Name>Lafrancol.SoluEventos.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\Lafrancol.SoluEventos.Soporte.Entidades.csproj">
       <Project>{8FB89C8D-A85D-4175-854A-F2A7DCC5AED4}</Project>
-      <Name>Lafrancol.SoluEventos.Soporte.Dto</Name>
+      <Name>Lafrancol.SoluEventos.Soporte.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

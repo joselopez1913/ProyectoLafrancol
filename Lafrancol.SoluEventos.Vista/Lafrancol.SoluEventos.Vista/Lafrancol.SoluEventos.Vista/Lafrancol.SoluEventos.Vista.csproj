@@ -124,7 +124,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ProveedorController.cs" />
+    <Compile Include="Controllers\Proveedor\ProveedorController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -167,10 +167,15 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Proveedor\Index.cshtml" />
+    <Content Include="Views\Proveedor\leerUnProveedor.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Evento\" />
+    <Folder Include="Views\Insumo\" />
+    <Folder Include="Views\Patrocinio\" />
+    <Folder Include="Views\Persona\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -186,9 +191,9 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\Lafrancol.SoluEventos.Soporte.Dto.csproj">
+    <ProjectReference Include="..\..\..\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\Lafrancol.SoluEventos.Soporte.Entidades.csproj">
       <Project>{8FB89C8D-A85D-4175-854A-F2A7DCC5AED4}</Project>
-      <Name>Lafrancol.SoluEventos.Soporte.Dto</Name>
+      <Name>Lafrancol.SoluEventos.Soporte.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
