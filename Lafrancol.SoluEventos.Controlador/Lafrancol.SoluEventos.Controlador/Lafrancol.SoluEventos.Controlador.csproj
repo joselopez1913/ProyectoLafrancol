@@ -109,10 +109,6 @@
       <Project>{74AE3581-7010-4C02-B588-03B3CCEF66F9}</Project>
       <Name>Lafrancol.SoluEventos.Dominio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\Lafrancol.SoluEventos.Soporte.Entidades.csproj">
-      <Project>{8FB89C8D-A85D-4175-854A-F2A7DCC5AED4}</Project>
-      <Name>Lafrancol.SoluEventos.Soporte.Entidades</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
