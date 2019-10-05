@@ -1,0 +1,5 @@
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.GestionMensajes\bin\Debug\Lafrancol.Solu_Eventos.GestionMensajes.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.GestionMensajes\bin\Debug\Lafrancol.Solu_Eventos.GestionMensajes.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.GestionMensajes\obj\Debug\Lafrancol.Solu_Eventos.GestionMensajes.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.GestionMensajes\obj\Debug\Lafrancol.Solu_Eventos.GestionMensajes.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.GestionMensajes\obj\Debug\Lafrancol.Solu_Eventos.GestionMensajes.pdb

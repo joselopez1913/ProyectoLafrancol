@@ -1,0 +1,33 @@
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csprojAssemblyReference.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csproj.CoreCompileInputs.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Dto.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Dto.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csproj.CopyComplete
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Dto.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Dto.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csproj.CopyComplete
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Entidades.dll
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\bin\Debug\Lafrancol.Solu_Eventos.Entidades.pdb
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csprojAssemblyReference.cache
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.csproj.CopyComplete
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.dll
+C:\Users\USER\Documents\RTF3\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Transversal\obj\Debug\Lafrancol.Solu_Eventos.Transversal.pdb
