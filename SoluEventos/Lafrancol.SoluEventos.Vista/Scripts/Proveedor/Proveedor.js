@@ -4,7 +4,7 @@
 function leerProveedores(){
     $.ajax({
         type: "GET",
-        url: "/api/proveedor/leerProveedores",
+        url: "/api/ApiProveedor/leerProveedores",
         data: JSON.stringify(),
         contentType: "application/json; charset=utf-8",
         success: function (data) {

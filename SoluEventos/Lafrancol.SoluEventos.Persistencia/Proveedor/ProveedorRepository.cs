@@ -33,14 +33,13 @@ namespace Lafrancol.SoluEventos.Persistencia
         public Proveedor guardar(Proveedor proveedorAGuardar)
         {
 
-            //    DataTable dtProveedoresGuardados = accesoDatos.ejecutarDataSetWithDataTableP("DECLARE @new_identity INT; INSERT INTO [dbo].[tbProveedor] (razonSocial,nit,personaContacto,telefono,direccion, estado)" +
-            //    "VALUES('" + proveedorAGuardar.getRazonSocial() + "', '" + proveedorAGuardar.getNit() + "', '" + proveedorAGuardar.getPersonaContacto() + "', '" + proveedorAGuardar.getTelefono() + "', '" + proveedorAGuardar.getDireccion() + "', '1'); " +
-            //    "SET @new_identity = SCOPE_IDENTITY();" +
-            //    "SELECT * FROM [dbo].[tbProveedor] WHERE idProveedor=@new_identity; ");
-
-            //    List<Proveedor> listaProveedoresConvertidos = ConvertData.ConvertirDtoToList<Proveedor>(dtProveedoresGuardados);
-            //    Proveedor proveedorGuardado = listaProveedoresConvertidos[0];
-            Proveedor proveedorGuardado=null;
+            DataTable dtProveedoresGuardados = accesoDatos.ejecutarDataSetWithDataTableP("DECLARE @new_identity INT; INSERT INTO [dbo].[tbProveedor] (razonSocial,nit,personaContacto,telefono,direccion, estado)" +
+            "VALUES('" + proveedorAGuardar.getRazonSocial() + "', '" + proveedorAGuardar.getNit() + "', '" + proveedorAGuardar.getPersonaContacto() + "', '" + proveedorAGuardar.getTelefono() + "', '" + proveedorAGuardar.getDireccion() + "', '1'); " +
+            "SET @new_identity = SCOPE_IDENTITY();" +
+            "SELECT * FROM [dbo].[tbProveedor] WHERE idProveedor=@new_identity; ");
+            
+            List<Proveedor> listaProveedoresConvertidos = ConvertData.ConvertirDtoToListPrivate<Proveedor>(dtProveedoresGuardados);
+            Proveedor proveedorGuardado = listaProveedoresConvertidos[0];
             return proveedorGuardado;
         }
     }

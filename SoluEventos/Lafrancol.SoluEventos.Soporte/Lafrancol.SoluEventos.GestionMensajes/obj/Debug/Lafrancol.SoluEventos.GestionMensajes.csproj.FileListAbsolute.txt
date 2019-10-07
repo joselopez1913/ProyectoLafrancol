@@ -4,3 +4,8 @@ C:\Users\USER\Documents\ProyectoLafrancol\Solu_Eventos\Lafrancol.SoluEventos.Sop
 C:\Users\USER\Documents\ProyectoLafrancol\Solu_Eventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\obj\Debug\Lafrancol.SoluEventos.GestionMensajes.csproj.CoreCompileInputs.cache
 C:\Users\USER\Documents\ProyectoLafrancol\Solu_Eventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\obj\Debug\Lafrancol.Solu_Eventos.GestionMensajes.dll
 C:\Users\USER\Documents\ProyectoLafrancol\Solu_Eventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\obj\Debug\Lafrancol.Solu_Eventos.GestionMensajes.pdb
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\bin\Debug\Lafrancol.Solu_Eventos.GestionMensajes.dll
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\bin\Debug\Lafrancol.Solu_Eventos.GestionMensajes.pdb
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\obj\Debug\Lafrancol.SoluEventos.GestionMensajes.csproj.CoreCompileInputs.cache
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\obj\Debug\Lafrancol.Solu_Eventos.GestionMensajes.dll
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\obj\Debug\Lafrancol.Solu_Eventos.GestionMensajes.pdb

@@ -2,6 +2,8 @@
 <html>
 <head>
     <script src="~/Scripts/jquery-3.3.1.js"></script>
+    <script src="~/Scripts/alertify.js"></script>
+    <link href="~/Content/alertifyjs/alertify.css" rel="stylesheet" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
@@ -9,7 +11,7 @@
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+@*<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>*@
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
@@ -24,8 +26,8 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Inicio", "Index", "Home", new { area = "" }, null)</li>
-                    <li>@Html.ActionLink("API", "leerProveedores", "api/Proveedor", new { area = "" }, null)</li>
-                    <li>@Html.ActionLink("Ver Proveedores", "Proveedor", "Home", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("API", "leerProveedores", "api/ApiProveedor", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("Ver Proveedores", "Index", "Proveedor", new { area = "" }, null)</li>
                 </ul>
             </div>
         </div>

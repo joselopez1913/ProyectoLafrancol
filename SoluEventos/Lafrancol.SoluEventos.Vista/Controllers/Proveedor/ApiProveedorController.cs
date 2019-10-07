@@ -10,7 +10,7 @@ using System.Web.Http;
 namespace Lafrancol.SoluEventos.Vista.Controllers
 {
     [RoutePrefix("api/proveedor") ]
-    public class ProveedorController : ApiController
+    public class ApiProveedorController : ApiController
     {
         [HttpGet]
         public IHttpActionResult leerProveedores() {
@@ -24,6 +24,17 @@ namespace Lafrancol.SoluEventos.Vista.Controllers
                 listaProveedoresDto.Add(itemDto);
             };
             return Ok(listaProveedoresDto);
+        }
+        [HttpPost]
+        public IHttpActionResult guardarProveedor(ProveedorDto proveedorAGuardarDto) {
+            ProveedorDominio proveedorDominio = new ProveedorDominio();
+            Proveedor proveedorGuardado = proveedorDominio.guardar(proveedorAGuardarDto);
+
+            ProveedorDto proveedorGuardadoDto = ProveedorDto.convertirProveedorADto(proveedorGuardado);
+            Proveedor proveedorAGuardar = new Proveedor();
+
+
+            return Ok(proveedorGuardadoDto);
         }
         
     }
