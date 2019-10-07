@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lafrancol.SoluEventos.Vista", "Lafrancol.SoluEventos.Vista\lafrancol.SoluEventos.Vista.csproj", "{8613C025-002A-4231-BAF1-A2AAB7F615DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lafrancol.SoluEventos.Persistencia", "lafrancol.SoluEventos.Persistencia", "{3587CE16-B053-4D8A-8E9E-BC8EAFB7E18B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lafrancol.SoluEventos.Dominio", "lafrancol.SoluEventos.Dominio", "{10D5FCA1-F2F5-4432-B9DB-C82F238A7EAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lafrancol.SoluEventos.Soporte", "Lafrancol.SoluEventos.Soporte", "{CF2A4456-F538-40F3-8B9A-AB13D0D2D9D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lafrancol.SoluEventos.Dominio", "Lafrancol.SoluEventos.Dominio\Lafrancol.SoluEventos.Dominio.csproj", "{F3941A16-7459-49B2-8F4E-218D9F76550E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lafrancol.SoluEventos.Persistencia", "Lafrancol.SoluEventos.Persistencia\Lafrancol.SoluEventos.Persistencia.csproj", "{C014788B-2827-497D-B759-FA15E906640B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lafrancol.SoluEventos.Entidades", "Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.Entidades\Lafrancol.SoluEventos.Entidades.csproj", "{6D9CFEAF-6EAE-4790-ABA0-8C140FF3E2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lafrancol.SoluEventos.Transversal", "Lafrancol.SoluEventos.Soporte\Lafrancol.Solu_Eventos.Transversal\Lafrancol.SoluEventos.Transversal.csproj", "{0ACCFAE1-49B1-40DE-8B1D-B1F86734BFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lafrancol.SoluEventos.GestionErrores", "Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionErrores\Lafrancol.SoluEventos.GestionErrores.csproj", "{FDEB9F31-F822-4F62-870F-833D9A19E8A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lafrancol.SoluEventos.GestionMensajes", "Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.GestionMensajes\Lafrancol.SoluEventos.GestionMensajes.csproj", "{0F1AB517-C8FD-43C1-B6E8-691CBF1BEA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8613C025-002A-4231-BAF1-A2AAB7F615DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8613C025-002A-4231-BAF1-A2AAB7F615DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8613C025-002A-4231-BAF1-A2AAB7F615DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8613C025-002A-4231-BAF1-A2AAB7F615DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3941A16-7459-49B2-8F4E-218D9F76550E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3941A16-7459-49B2-8F4E-218D9F76550E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3941A16-7459-49B2-8F4E-218D9F76550E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3941A16-7459-49B2-8F4E-218D9F76550E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C014788B-2827-497D-B759-FA15E906640B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C014788B-2827-497D-B759-FA15E906640B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C014788B-2827-497D-B759-FA15E906640B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C014788B-2827-497D-B759-FA15E906640B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9CFEAF-6EAE-4790-ABA0-8C140FF3E2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9CFEAF-6EAE-4790-ABA0-8C140FF3E2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9CFEAF-6EAE-4790-ABA0-8C140FF3E2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9CFEAF-6EAE-4790-ABA0-8C140FF3E2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACCFAE1-49B1-40DE-8B1D-B1F86734BFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACCFAE1-49B1-40DE-8B1D-B1F86734BFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACCFAE1-49B1-40DE-8B1D-B1F86734BFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACCFAE1-49B1-40DE-8B1D-B1F86734BFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEB9F31-F822-4F62-870F-833D9A19E8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEB9F31-F822-4F62-870F-833D9A19E8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEB9F31-F822-4F62-870F-833D9A19E8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEB9F31-F822-4F62-870F-833D9A19E8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1AB517-C8FD-43C1-B6E8-691CBF1BEA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1AB517-C8FD-43C1-B6E8-691CBF1BEA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1AB517-C8FD-43C1-B6E8-691CBF1BEA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1AB517-C8FD-43C1-B6E8-691CBF1BEA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3941A16-7459-49B2-8F4E-218D9F76550E} = {10D5FCA1-F2F5-4432-B9DB-C82F238A7EAA}
+		{C014788B-2827-497D-B759-FA15E906640B} = {3587CE16-B053-4D8A-8E9E-BC8EAFB7E18B}
+		{6D9CFEAF-6EAE-4790-ABA0-8C140FF3E2CD} = {CF2A4456-F538-40F3-8B9A-AB13D0D2D9D4}
+		{0ACCFAE1-49B1-40DE-8B1D-B1F86734BFE4} = {CF2A4456-F538-40F3-8B9A-AB13D0D2D9D4}
+		{FDEB9F31-F822-4F62-870F-833D9A19E8A6} = {CF2A4456-F538-40F3-8B9A-AB13D0D2D9D4}
+		{0F1AB517-C8FD-43C1-B6E8-691CBF1BEA95} = {CF2A4456-F538-40F3-8B9A-AB13D0D2D9D4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D92FF1-F04C-4AFF-BEC4-280DB9A7386B}
+	EndGlobalSection
+EndGlobal
