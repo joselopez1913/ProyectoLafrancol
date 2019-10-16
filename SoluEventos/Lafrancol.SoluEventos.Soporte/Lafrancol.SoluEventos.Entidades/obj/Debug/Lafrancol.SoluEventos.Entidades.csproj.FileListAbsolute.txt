@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Entidades\bin\Debug\Lafrancol.SoluEventos.Entidades.dll
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Entidades\bin\Debug\Lafrancol.SoluEventos.Entidades.pdb
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Entidades\obj\Debug\Lafrancol.SoluEventos.Entidades.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Entidades\obj\Debug\Lafrancol.SoluEventos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Entidades\obj\Debug\Lafrancol.SoluEventos.Entidades.dll
+C:\Users\USER\Documents\ProyectoLafrancol\Lafrancol.Solu_Eventos.Soporte\Lafrancol.Solu_Eventos.Entidades\obj\Debug\Lafrancol.SoluEventos.Entidades.pdb
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.Entidades\bin\Debug\Lafrancol.SoluEventos.Entidades.dll
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.Entidades\bin\Debug\Lafrancol.SoluEventos.Entidades.pdb
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.Entidades\obj\Debug\Lafrancol.SoluEventos.Entidades.csproj.CoreCompileInputs.cache
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.Entidades\obj\Debug\Lafrancol.SoluEventos.Entidades.dll
+C:\SoluEventos\SoluEventos\Lafrancol.SoluEventos.Soporte\Lafrancol.SoluEventos.Entidades\obj\Debug\Lafrancol.SoluEventos.Entidades.pdb

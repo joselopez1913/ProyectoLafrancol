@@ -1,6 +1,0 @@
-C:\Users\carlosabs\Documents\SoluEventos\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\bin\Debug\Lafrancol.SoluEventos.Soporte.Dto.dll
-C:\Users\carlosabs\Documents\SoluEventos\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\bin\Debug\Lafrancol.SoluEventos.Soporte.Dto.pdb
-C:\Users\carlosabs\Documents\SoluEventos\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\obj\Debug\Lafrancol.SoluEventos.Soporte.Dto.csprojAssemblyReference.cache
-C:\Users\carlosabs\Documents\SoluEventos\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\obj\Debug\Lafrancol.SoluEventos.Soporte.Dto.csproj.CoreCompileInputs.cache
-C:\Users\carlosabs\Documents\SoluEventos\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\obj\Debug\Lafrancol.SoluEventos.Soporte.Dto.dll
-C:\Users\carlosabs\Documents\SoluEventos\Lafrancol.SoluEventos.Soporte\Dto\Lafrancol.SoluEventos.Soporte.Dto\obj\Debug\Lafrancol.SoluEventos.Soporte.Dto.pdb

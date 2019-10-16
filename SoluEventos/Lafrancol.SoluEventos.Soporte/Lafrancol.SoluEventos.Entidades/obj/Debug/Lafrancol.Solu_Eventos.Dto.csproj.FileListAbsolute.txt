@@ -1,0 +1,12 @@
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Dto\bin\Debug\Lafrancol.Solu_Eventos.Dto.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Dto\bin\Debug\Lafrancol.Solu_Eventos.Dto.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.csprojAssemblyReference.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.csproj.CoreCompileInputs.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Dto\bin\Debug\Lafrancol.Solu_Eventos.Dto.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Dto\bin\Debug\Lafrancol.Solu_Eventos.Dto.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\Lafrancol.Solu_Eventos.Dto\obj\Debug\Lafrancol.Solu_Eventos.Dto.pdb
